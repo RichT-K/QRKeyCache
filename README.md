@@ -6,7 +6,7 @@ Proximity to an image increases the resolution of the image's location.
 When the player finds the image they scan the QR Code taking them to the page which records their find, also updating the map.
 
 There are time limits on each game which should be reflected on the page 
-and accounted for when an expired game image code is scanned. When enough players indicate an active image is unreadable 
+and accounted for when an inactive game image code is scanned. When enough players indicate an active image is unreadable 
 it may be replaced with a new image or deactived from the game. 
 
 A goal is to incorporate local business to sponsor prizes for the players who complete the game with the most finds 
@@ -20,3 +20,5 @@ the shortest time each image was found, the time remaining ... along with other 
 
 The game will utilize OSM(Open Street Map) first, Google Map and Bing Map as secondary options.
 
+Game admins or designated "placers" affix and scan images to record the locations, after images are in place the game admin activiates the game
+at which time the game becomes visible to players accessing the site or a private game url. 
