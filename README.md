@@ -3,7 +3,7 @@ QRCache is a GEO location treasure hunt like, GEO Caching, in which biodegradabl
 A player accesses the site/app to find an image.
 With with GEO nav enabled the closest 10 or so non-located images are shown on the map.
 Proximity to an image increases the resolution of the image's location.
-When the player finds the image they scan the QR Code taking them to the page which records there find, also updating the map.
+When the player finds the image they scan the QR Code taking them to the page which records their find, also updating the map.
 
 There are time limits on each game which should be reflected on the page 
 and accounted for when an expired game image code is scanned. When enough players indicate an active image is unreadable 
@@ -14,4 +14,9 @@ in the shortest accumulated time.
 
 Games will have themes related to the participating business.
 Non-business related games, public and private, may be created for other groups or organizations.
+
+The list of images in each game will continuously update to show the number of players that have found the image,
+the shortest time each image was found, the time remaining ... along with other data specific only to the player.
+
+The game will utilize OSM(Open Street Map) first, Google Map and Bing Map as secondary options.
 
