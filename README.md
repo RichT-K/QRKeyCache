@@ -1,5 +1,5 @@
-# QRCache
-QRCache is a GEO location treasure hunt like, GEO Caching, in which biodegradable images containing a QRCode are placed at specific locations.  
+# QRKeyCache
+QRKeyCache is a GEO location treasure hunt like, GEO Caching, in which biodegradable images containing a QRCode are placed at specific locations.  
 A player accesses the site/app to find an image.
 With with GEO nav enabled the closest 10 or so non-located images are shown on the map.
 Proximity to an image increases the resolution of the image's location.
